@@ -185,7 +185,7 @@ autoclean = []
 # Images
 START_IMG_URL = getenv(
     "START_IMG_URL", 
-    "assets/vegetamusicstart.jpg",
+    "assets/vegetamusicstart.jpeg",
 )
 
 PING_IMG_URL = getenv(
@@ -220,7 +220,7 @@ TELEGRAM_VIDEO_URL = getenv(
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "assets/vegetastream.jpg",
+    "assets/vegetastream.jpeg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
