@@ -114,7 +114,7 @@ def stream_markup(_, videoid):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_10"], url=f"]https://t.me/cerminanrasaa",
+                text=_["S_B_10"], url=f"https://t.me/cerminanrasaa",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"], switch_inline_query_current_chat=""
